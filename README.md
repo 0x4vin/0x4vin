@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahfuzur Rahman @0x4vin
+- 👋 Hi, I’m Mahfuzur Rahman
 - 👀 I’m interested in PurpleTeamming  
 - 🌱 I’m currently learning BlackBox Pentesting
 - 👀 Experiences : CTF , BugBunt , Web-Penetration testing ...
