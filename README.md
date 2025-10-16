@@ -4,7 +4,6 @@
 - 👀 Experiences : CTF , BugBunt , Web-Penetration testing ...
 - 💞️ I’m looking to collaborate as Penetration Tester ( web , api )
 - 📫 How to reach me: social media or gmail _ reach me 0x4vin
-- ⚡ Fun fact: ...
 
 <!---
 0x4vin/0x4vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
